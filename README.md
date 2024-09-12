@@ -5,8 +5,10 @@ This repository contains MATLAB implementations of the Max-Robust-Sum (MRS) and 
 ## Contents
 - `MRS_vpa.m`: MATLAB code for the MRS test statistic.
 - `SRS_vpa.m`: MATLAB code for the SRS test statistic.
-- `figure_MRS.png`: Figure showing the alignment of the derived PDF and numerical simulation for the MRS.
-- `figure_SRS.png`: Figure showing the alignment of the derived PDF and numerical simulation for the SRS.
+- `figure_MRS.png`: Sample figure showing the alignment of the derived PDF and numerical simulation for the MRS.
+  ![Figure MRS](figure_MRS.png)
+- `figure_SRS.png`: Sample figure showing the alignment of the derived PDF and numerical simulation for the SRS.
+  ![Figure SRS](figure_SRS.png)
 
 ## Usage
 To use the provided code, simply download the MATLAB files and run them within your MATLAB environment. Each script is self-contained and includes comments to guide you through the process of computing the null distribution functions for the given statistics.
